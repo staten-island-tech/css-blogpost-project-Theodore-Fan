@@ -1,10 +1,8 @@
 
 body {
     /* sets the background for all used space (if a full screen isn't used then it will fill to fit a full screen) */
-    background-image: url(media/beach.jpg);
-  }
-  
-  h1 {
-    /* sets background color around the h1 text */
-    background-color: red;
-  }
+    background-color:#FFA000
+} 
+h1{
+  color: white; 
+}
