@@ -1,8 +1,12 @@
-
 body {
-    /* sets the background for all used space (if a full screen isn't used then it will fill to fit a full screen) */
-    background-color:#FFA000
+  text-align: center;
+  background-color:#FFA000
+  
 } 
 h1{
-  color: white; 
+color: white; 
+font: weight 100px;
+font-family: garamond;
 }
+p{color: white;}
+h2{font-weight: lighter; }
