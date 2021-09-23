@@ -1,17 +1,27 @@
-header{ margin-bottom:100px;}
-main{margin-bottom:100px;}
+header {
+  margin-bottom: 100px;
+}
+main {
+  margin-bottom: 100px;
+}
 body {
   text-align: center;
-  background-color:#FFA000
-} 
-h1{
-color: white; 
-font: weight 100px;
-font-family: garamond;
-font-size: 300%;
+  background-color: #ffa000;
 }
-p{color: white;}
-h2{font-weight: lighter;
-color: white }
-h3{color: white;
-font-weight: lighter; }
+h1 {
+  color: white;
+  font: weight 100px;
+  font-family: garamond;
+  font-size: 48px;
+}
+p {
+  color: white;
+}
+h2 {
+  font-weight: lighter;
+  color: white;
+}
+h3 {
+  color: white;
+  font-weight: lighter;
+}
