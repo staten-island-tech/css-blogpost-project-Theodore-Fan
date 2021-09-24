@@ -1,11 +1,12 @@
 header {
-  margin-bottom: 100px;
+  text-align: center;
+  margin-left: 30px;
 }
-main {
-  margin-bottom: 100px;
+img {
+  max-width: 200%;
+  max-height: 200%;
 }
 body {
-  text-align: center;
   background-color: #ffa000;
 }
 h1 {
@@ -20,8 +21,20 @@ p {
 h2 {
   font-weight: lighter;
   color: white;
+  font-size: 32px;
 }
 h3 {
   color: white;
   font-weight: lighter;
+  font-size: 32px;
+}
+main {
+  text-align: center;
+  width: 900px;
+  background-color: orangered;
+  border: 50px solid white;
+  padding: 300px;
+  margin: 200px;
+  margin-left: 160px;
+  margin-top: 100px;
 }
