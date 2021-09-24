@@ -1,6 +1,33 @@
 main {
     width: 300px;
     border: 15px solid green;
-    padding: 50px;
-    margin: 20px;
+    padding: 300px;
+    margin: 300px;
+    margin-bottom: 100px;
   }
+  header {
+    margin-top: 10px;
+  }
+
+  body {
+    text-align: center;
+    background-color: #ffa000;
+  }
+  h1 {
+    color: white;
+    font: weight 100px;
+    font-family: garamond;
+    font-size: 48px;
+  }
+  p {
+    color: white;
+  }
+  h2 {
+    font-weight: lighter;
+    color: white;
+  }
+  h3 {
+    color: white;
+    font-weight: lighter;
+  }
+  
