@@ -2,28 +2,26 @@ header {
   text-align: center;
   margin-left: 30px;
 }
-img {
-  max-width: 200%;
-  max-height: 200%;
-}
 body {
   background-color: #ffa000;
 }
-h1 {
+.image {
+  max-width: 200%;
+  max-height: 200%;
+}
+.heading {
   color: white;
   font: weight 100px;
   font-family: garamond;
   font-size: 48px;
 }
-p {
-  color: white;
-}
-h2 {
+
+.subheading {
   font-weight: lighter;
   color: white;
   font-size: 32px;
 }
-h3 {
+.subtext {
   color: white;
   font-weight: lighter;
   font-size: 32px;
@@ -37,4 +35,8 @@ main {
   margin: 200px;
   margin-left: 160px;
   margin-top: 100px;
+}
+
+.link{
+  
 }
