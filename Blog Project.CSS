@@ -26,7 +26,7 @@ body {
   font-weight: lighter;
   font-size: 32px;
 }
-main {
+div {
   text-align: center;
   width: 900px;
   background-color: orangered;
